@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Conditional Operator", "Conditional Operator\Conditional Operator.vcxproj", "{71FC0062-E78E-4EAC-BD02-B95EA26A5E26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71FC0062-E78E-4EAC-BD02-B95EA26A5E26}.Debug|x64.ActiveCfg = Debug|x64
+		{71FC0062-E78E-4EAC-BD02-B95EA26A5E26}.Debug|x64.Build.0 = Debug|x64
+		{71FC0062-E78E-4EAC-BD02-B95EA26A5E26}.Debug|x86.ActiveCfg = Debug|Win32
+		{71FC0062-E78E-4EAC-BD02-B95EA26A5E26}.Debug|x86.Build.0 = Debug|Win32
+		{71FC0062-E78E-4EAC-BD02-B95EA26A5E26}.Release|x64.ActiveCfg = Release|x64
+		{71FC0062-E78E-4EAC-BD02-B95EA26A5E26}.Release|x64.Build.0 = Release|x64
+		{71FC0062-E78E-4EAC-BD02-B95EA26A5E26}.Release|x86.ActiveCfg = Release|Win32
+		{71FC0062-E78E-4EAC-BD02-B95EA26A5E26}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB247A3F-7C3F-4E41-A6E9-9DA0CC394432}
+	EndGlobalSection
+EndGlobal
